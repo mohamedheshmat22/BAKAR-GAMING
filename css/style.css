@@ -5,7 +5,14 @@
 font-optical-sizing: auto;
 font-weight: weight;
 font-style: normal;
+
 }
+
+body{
+    background-color: #000000;
+  
+    font-family: "Noto Kufi Arabic", sans-serif;}
+    
 nav{
     background-color: #121124;
     padding-top: 1vh;
@@ -38,14 +45,14 @@ transition: 0.5s;
 .home{
     padding-top: 10vh;
     padding-bottom: 10vh;
-    background-image: url(../img/1.png);
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .home img{
     width: 20rem;
-    border-radius: 10px;
+    border-radius: 0000px;
     margin-left: 5vh;
 }
 
@@ -64,14 +71,15 @@ transition: 0.5s;
 }
 
 .Services{
+    
     padding-top: 5vh;
     color: #121124;
     text-align: center;
-   
+   padding-bottom: 10vh;
 }
 .Services h1{
    text-align: center;
-   background-color: #121124;
+   margin-top: 5vh;
    color: white;
    padding: 0 2vh;
    display: inline-block;  
@@ -88,13 +96,28 @@ transition: 0.5s;
 .Services-a a {
     cursor: pointer;
     text-decoration: none;
-    color: #121124;
+    text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: end;
     align-items: center;
     font-size: 20px;
     margin-bottom: 2vh;
+}
+.Services-a h3 {
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+ border: #121124 2px solid;
+    padding: 30px 50px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.Services-a h3:hover {
+    box-shadow: #121124 5px 10px 50px
+    ;
+    border:     #121124 2px solid;
+    color: white;
 }
 
 .Services img{
@@ -108,18 +131,23 @@ transition: 0.5s;
 }
 .Offers h1{
     text-align: center;
-    background-color: #121124;
+   
     color: white;
     padding: 0 2vh;
     display: inline-block;  
     border-radius: 10px;
     margin-bottom: 5vh;
  }
+  .Prices{
+    gap: 5vh;
+   
+  }
  .Prices img {
     width: 10rem;
  }
  .Prices-type {
     margin-top: 2vh;
+    
  }
  .Prices-type img {
     width: 3rem;
@@ -128,7 +156,7 @@ transition: 0.5s;
    font-size: 30px;
     cursor: pointer;
     text-decoration: none;
-    color: #121124;
+    color: #ffffff;
     padding: 10px 20px;
     border-radius: 10px;
     font-family: "Noto Kufi Arabic", sans-serif;
@@ -140,6 +168,14 @@ transition: 0.5s;
  }
  .egypt{
     margin-bottom: 5vh;
+    color: white;
+    border: #121124 2px solid;
+    padding: 50px 10px;
+
+ }
+ .egypt:hover{
+    box-shadow: #121124 20px 10px 50px;
+    border: #121124 2px solid;
  }
 
  .Prices-type  a:hover {
@@ -149,6 +185,9 @@ transition: 0.5s;
 
 .vido video {
 width:30rem;
+}
+.home1{
+    color: white;
 }
 
     .home1 img {
@@ -260,15 +299,19 @@ border-radius: 10px;
             border-radius: 10px;
             margin-bottom: 5vh;
         }
-        .egypt img {
-            width: 10rem;
+       
+         .Prices{
+            margin-left: 1px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+         
          }
-         .Prices-type img {
-            width: 3rem;
-            margin-left: 2vh;
-            margin-right: 3vh;
+         .egypt{
+            width: 70%;
+         }
     
-         }
        
        
             .footer-area {
@@ -512,16 +555,17 @@ border-radius: 10px;
             border-radius: 10px;
             margin-bottom: 5vh;
         }
-        .egypt img {
-            width: 10rem;
+         .Prices{
+            margin-left: 1px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+         
          }
-         .Prices-type img {
-            width: 3rem;
-            margin-left: 2vh;
-            margin-right: 3vh;
-    
+ .egypt{
+            width: 70%;
          }
-
        
          .footer-area {
             display: flex;
@@ -750,15 +794,17 @@ align-items: center;
         border-radius: 10px;
         margin-bottom: 5vh;
     }
-    .egypt img {
-        width: 10rem;
-     }
-     .Prices-type img {
-        width: 3rem;
-        margin-left: 2vh;
-        margin-right: 3vh;
-
-     }
+            .Prices{
+            margin-left: 1px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+         
+         }
+ .egypt{
+            width: 70%;
+         }
 
   
      .footer-area {
@@ -855,6 +901,18 @@ align-items: center;
         background-color: #121124;
         color: #ffffff;
        }
+
+                .Prices{
+            margin-left: 1px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+         
+         }
+ .egypt{
+            width: 70%;
+         }
 
     }
 
