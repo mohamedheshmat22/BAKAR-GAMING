@@ -140,8 +140,10 @@ text-align: center;
  }
   .Prices{
     gap: 5vh;
+    padding-top: 10vh;
    
   }
+
  .Prices img {
     width: 10rem;
  }
@@ -173,6 +175,10 @@ text-align: center;
     padding: 50px 10px;
 
  }
+    .egypt pre {
+      font-family: sans-serif;
+      font-size: larger;
+    }
  .egypt:hover{
     box-shadow: #121124 20px 10px 50px;
     border: #121124 2px solid;
@@ -182,7 +188,22 @@ text-align: center;
     background-color: #121124;
         color: white;
     }
-
+.rings{
+       margin-bottom: 100vh;
+    color: white;
+    border: #121124 2px solid;
+    padding: 50px 10px; 
+    margin-top: 10vh;
+   
+}
+.rings pre {
+    font-family: sans-serif;
+    font-size: larger;
+}
+ .rings:hover{
+    box-shadow: #121124 20px 10px 50px;
+    border: #121124 2px solid;
+ }
 .vido video {
 width:30rem;
 }
