@@ -354,6 +354,139 @@ border-radius: 10px;
     background-color: #121124;
     color: #ffffff;
    }
+
+   @media (max-width:360px) {
+
+        nav{
+            display: flex;
+            justify-content: space-around;
+    align-items: center;
+   
+        }
+              .nav-type {
+                
+            padding-left: 1vh;
+            padding-right: 1vh;
+            
+            display: flex;
+            justify-content: space-around;
+    align-items: center;
+        }
+        .nav-type a{
+            margin-left: 0vh;
+           
+            padding: 5px 5px;
+        }
+       
+        .home{
+            padding-top: 10vh;
+            padding-bottom: 10vh;
+       
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+        }
+        .home-type{
+            margin-right: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .home img{
+            width: 10rem;
+            border-radius: 10px;
+          margin-left: 0;
+        
+        }
+        .home-type h1,h3{
+            margin-top: 3vh;
+            color: white;
+           font-size: 20px;
+        
+           
+        }
+.offer-a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5vh;
+}
+
+.offer-a a {
+   margin-top: 5vh;
+}
+   
+        .Services img{
+            width: 10rem;
+            border-radius: 10px;
+            margin-bottom: 5vh;
+        }
+       
+         .Prices{
+            margin-left: 1px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+         
+         }
+         .egypt{
+            width: 70%;
+         }
+    
+       
+       
+            .footer-area {
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                align-items: end;
+                background-color: #121124;
+                color: #ffffff;
+                padding: 5vh 0;
+            }
+
+            .logo img {
+                width: 15rem;
+                border-radius: 10px;
+                margin-bottom: 3vh;
+                   }
+                
+                   .sochial {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                   }
+                   .sochial i{
+                    width: 2vh;
+                    font-size: 20px ;
+                    color: #ffffff;
+                    margin-top: 1vh;
+                    margin-bottom: 3vh;
+                    margin-left: 2vh
+                   }
+                   .padge a {
+                 
+                    cursor: pointer;
+                    text-decoration: none;
+                    color: #ffffff;
+                    padding: 10px 20px;
+                    border-radius: 10px;
+                    font-family: "Noto Kufi Arabic", sans-serif;
+                    font-optical-sizing: auto;
+                    font-weight: weight;
+                    font-style: normal;
+                   }
+                   .footer-area2{
+                    background-color: #121124;
+                    color: #ffffff;
+                   }
+    
+    }
     @media (max-width:390px) {
 
         nav{
@@ -362,9 +495,10 @@ border-radius: 10px;
     align-items: center;
         }
               .nav-type {
+                 margin-right: 2vh;
             padding-left: 1vh;
             padding-right: 1vh;
-            width: 100%;
+            width: 50%;
             display: flex;
             justify-content: space-around;
     align-items: center;
@@ -487,11 +621,27 @@ border-radius: 10px;
     
      @media (max-width:375px) {
 
-        nav{
+       nav{
             display: flex;
             justify-content: space-around;
     align-items: center;
         }
+              .nav-type {
+                margin-right: 2vh;
+            padding-left: 1vh;
+            padding-right: 1vh;
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+    align-items: center;
+        }
+        .nav-type a{
+            margin-left: 10vh;
+           
+            padding: 5px 5px;
+        }
+
+
       
         .home{
             padding-top: 10vh;
@@ -602,9 +752,6 @@ border-radius: 10px;
     
     @media (max-width:344px) {
 
-    
-      
-       
         .home{
             padding-top: 10vh;
             padding-bottom: 10vh;
