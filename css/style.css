@@ -6,6 +6,7 @@ font-optical-sizing: auto;
 font-weight: weight;
 font-style: normal;
 color: white;
+height: auto;
 }
 
 body{
@@ -158,6 +159,10 @@ text-align: center;
     
     
    
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
 }
 .col h3 {
     color: #ffffff;
@@ -320,9 +325,10 @@ font-family: "Noto Kufi Arabic", sans-serif;
         background-color: #121124;
         color: #ffffff;
         padding: 5vh 0;
+        height: auto;
     }
    .logo img {
-width: 15rem;
+width: 10rem;
 border-radius: 10px;
    }
 
