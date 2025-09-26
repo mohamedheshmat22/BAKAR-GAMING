@@ -319,9 +319,7 @@ font-family: "Noto Kufi Arabic", sans-serif;
     
     }
     .footer-area {
-        display: flex;
-        justify-content: space-around;
-        align-items: start;
+    
         background-color: #121124;
         color: #ffffff;
         padding: 5vh 0;
@@ -1502,3 +1500,4 @@ border-radius: 10px;
 
 
   
+
