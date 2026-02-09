@@ -58,6 +58,8 @@ transition: 0.5s;
 }
 .container img {
     padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
 }
 .home{
     padding-top: 10vh;
@@ -549,6 +551,45 @@ border-radius: 10px;
                     background-color: #121124;
                     color: #ffffff;
                    }
+
+                   .s1 a {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2vh;
+    
+}
+
+.s1 img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10vh;
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+}
+.s1 h3 {
+    
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+  border: #121124 2px solid;
+    padding: 20px 30px;
+    margin-left: 5vh ;
+    margin-right: 5vh;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.s1 h3:hover {
+    box-shadow: #121124 5px 10px 50px;
+     border: #121124 2px solid;
+    color: white;
+        background-color:  #121124;
+
+}
     
     }
     @media (max-width:390px) {
@@ -602,6 +643,44 @@ border-radius: 10px;
         
            
         }
+        .s1 a {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2vh;
+    
+}
+
+.s1 img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10vh;
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+}
+.s1 h3 {
+    
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+  border: #121124 2px solid;
+    padding: 20px 30px;
+    margin-left: 5vh ;
+    margin-right: 5vh;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.s1 h3:hover {
+    box-shadow: #121124 5px 10px 50px;
+     border: #121124 2px solid;
+    color: white;
+        background-color:  #121124;
+
+}
 .offer-a {
     display: flex;
     justify-content: center;
@@ -754,7 +833,44 @@ border-radius: 10px;
          .egypt{
             width: 70%;
          }
-         
+         .s1 a {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2vh;
+    
+}
+
+.s1 img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10vh;
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+}
+.s1 h3 {
+    
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+  border: #121124 2px solid;
+    padding: 20px 30px;
+    margin-left: 5vh ;
+    margin-right: 5vh;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.s1 h3:hover {
+    box-shadow: #121124 5px 10px 50px;
+     border: #121124 2px solid;
+    color: white;
+        background-color:  #121124;
+
+}
     .download-type {
     text-align: center;
     margin-top: 2vh;
@@ -858,7 +974,44 @@ border-radius: 10px;
             margin-right: 3vh;
     
          }
+    .s1 a {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2vh;
     
+}
+
+.s1 img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10vh;
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+}
+.s1 h3 {
+    
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+  border: #121124 2px solid;
+    padding: 20px 30px;
+    margin-left: 5vh ;
+    margin-right: 5vh;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.s1 h3:hover {
+    box-shadow: #121124 5px 10px 50px;
+     border: #121124 2px solid;
+    color: white;
+        background-color:  #121124;
+
+}
     }
     @media (max-width:360px) {
 
@@ -893,7 +1046,44 @@ border-radius: 10px;
            
         }
    
-       
+       .s1 a {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2vh;
+    
+}
+
+.s1 img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10vh;
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+}
+.s1 h3 {
+    
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+  border: #121124 2px solid;
+    padding: 20px 30px;
+    margin-left: 5vh ;
+    margin-right: 5vh;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.s1 h3:hover {
+    box-shadow: #121124 5px 10px 50px;
+     border: #121124 2px solid;
+    color: white;
+        background-color:  #121124;
+
+}
         
       
     
@@ -1005,6 +1195,44 @@ border-radius: 10px;
                 background-color: #121124;
                 color: #ffffff;
                }
+               .s1 a {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2vh;
+    
+}
+
+.s1 img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10vh;
+}
+.row{
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+}
+.s1 h3 {
+    
+    color: #ffffff;
+    font-size: 20px;
+text-align: center;
+  border: #121124 2px solid;
+    padding: 20px 30px;
+    margin-left: 5vh ;
+    margin-right: 5vh;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.s1 h3:hover {
+    box-shadow: #121124 5px 10px 50px;
+     border: #121124 2px solid;
+    color: white;
+        background-color:  #121124;
+
+}
            
         }
      
