@@ -473,6 +473,11 @@ border-radius: 10px;
         
            
         }
+        .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
 .offer-a {
     display: flex;
     justify-content: center;
@@ -643,6 +648,11 @@ text-align: center;
         
            
         }
+        .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
         .s1 a {
     cursor: pointer;
     text-decoration: none;
@@ -815,7 +825,11 @@ text-align: center;
         
            
         }
-  
+  .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
         .Services img{
             width: 10rem;
             border-radius: 10px;
@@ -974,6 +988,11 @@ text-align: center;
             margin-right: 3vh;
     
          }
+         .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
     .s1 a {
     cursor: pointer;
     text-decoration: none;
@@ -1053,6 +1072,11 @@ text-align: center;
     font-size: 20px;
     margin-bottom: 2vh;
     
+}
+.container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
 }
 
 .s1 img {
@@ -1136,6 +1160,11 @@ text-align: center;
         
            
         }
+        .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
       
    
          .Prices{
@@ -1288,7 +1317,11 @@ text-align: center;
     
        
     }
-  
+  .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
     .Services img{
         width: 10rem;
         border-radius: 10px;
@@ -1385,6 +1418,11 @@ text-align: center;
         margin-bottom: 3vh;
         margin-left: 2vh
        }
+       .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
        .padge a {
      
         cursor: pointer;
@@ -1439,7 +1477,11 @@ text-align: center;
     width: 100%;
 }
 
-        
+       .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+} 
         .s1 a {
     cursor: pointer;
     text-decoration: none;
@@ -1544,6 +1586,11 @@ text-align: center;
            
             padding: 5px 5px;
         }
+        .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
     .home{
         padding-top: 10vh;
         padding-bottom: 10vh;
@@ -1613,7 +1660,11 @@ text-align: center;
            
             padding: 5px 5px;
         }
-   
+   .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
     .home{
         padding-top: 10vh;
         padding-bottom: 10vh;
@@ -1734,7 +1785,11 @@ text-align: center;
            
             padding: 5px 5px;
         }
-   
+   .container img {
+    padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
+}
     .home{
         padding-top: 10vh;
         padding-bottom: 10vh;
