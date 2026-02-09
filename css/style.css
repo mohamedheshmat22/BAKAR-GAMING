@@ -58,6 +58,8 @@ transition: 0.5s;
 }
 .container img {
     padding-top: 10vh;
+    width: 20vh;
+    height: 30vh;
 }
 .home{
     padding-top: 10vh;
